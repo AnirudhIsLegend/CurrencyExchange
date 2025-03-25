@@ -1,4 +1,6 @@
-💱 Currency Exchange Web App
+  💱 Currency Exchange Web App
+
+  
 This project is a Currency Exchange Web Application that allows users to convert currency values in real-time using live exchange rates from the ExchangeRate-API.
 
 🌟 Features
